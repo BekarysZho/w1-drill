@@ -1,1 +1,2 @@
 This is my manual Git practice drill.
+Adding a second sentence to test the web branch merge cycle
